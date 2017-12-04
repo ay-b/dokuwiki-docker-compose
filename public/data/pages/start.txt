@@ -1,0 +1,9 @@
+===== How to manage and build the good manual here =====
+
+**default username:password are admin:admin**
+
+First of all — develop a structure by editing the sidebar page. Placing links to the nonexistent pages is ok. You'll not forget to create them because dead links will differ from the existing ones.
+
+The current structure isn't a mandatory, it is just an example.
+
+Fill up the pages, commit changes to git, make a client happy.

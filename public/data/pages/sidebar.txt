@@ -1,0 +1,33 @@
+=== Summary === 
+  * [[Project summary]]
+=== Scope ===
+  * [[Project scope]]
+=== Project Software ===
+  * [[Software 1 overview]]
+    * [[Software 1 user manual]]
+  * [[Software 2 overview]]
+    * [[Software 2 user manual]]
+  * [[Software 3 overview]]
+    * [[Software 3 user manual]]
+=== Settings ===
+  * [[Component 1 settings]]
+  * [[Component 2 settings]]
+  * [[Component 3 settings]]
+=== Install & Deploy ===
+  * [[System installation procedure]]
+  * [[Component 1 installation procedure]]
+  * [[Component 2 installation procedure]]
+  * [[Deployment scheme]]
+  * [[Deployment Procedure]]
+=== BCP/DRP ===
+  * [[Backup process procedure]]
+  * [[Recovery process procedure]]
+  * [[Failover deployment and settings]]
+
+=== Print Out All Pages ===
+  * [[Printer friendly]]
+
+=== Dokuwiki manual ===
+  * [[Dokuwiki web-site]](https://www.dokuwiki.org/dokuwiki#)
+  * [[wiki:syntax | Brief Syntax rules]]
+  * [[How to manage these pages]]
